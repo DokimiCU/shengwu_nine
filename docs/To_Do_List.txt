@@ -1,0 +1,57 @@
+Survival features:
+- space suit
+- sealed habitats
+- health? food?
+
+
+
+Tools:
+- digging tools
+- science tools
+- invitro cultures (i.e. ways to keep a cell alive to study it)
+- more precise gene editing. (i.e. design a cell)
+
+Building
+- doors
+- chest is just a copy-paste from Exile.
+
+
+Player:
+- proper textures (not naked)
+
+
+The Superorganism:
+- need for nutrients and water (e.g. from soil, air, water. Big rewrite).
+- new tissue types (e.g. roots for nutrients)
+- more genes for different behaviours?
+- intelligence (various ways of coordinating its behaviour, responding to environment, AI)
+- communication (e.g. noise making cell type)
+- entities (e.g. a cell that spawns defensive, builder, or resource gathering creatures)
+
+
+Environment
+- toxic atmosphere (use it to replace low cloud)
+- more "spacey" sky, sun, moon
+- weather
+- schematic e.g. aready active structures (requires setting parameters on magpen), or dead skeletons.
+
+
+More self-organising stuff:
+- selfreplicating tools/buildings
+- artificial neural networks
+
+
+
+Threats:
+- ???
+
+
+Mission Control
+- encyclopedia/newsfeed (e.g. research articles, press releases)
+- communication. send and recieve messages.
+- transport e.g. some method of sending samples
+- gameloop for unlocking new equipment that encourages actual research rather than mindless grinding.
+
+
+Performance:
+- this is the kind of thing that has the potential to get out of hand and grind someone's computer to a halt. Needs things to be efficient, and to keep it within limits.

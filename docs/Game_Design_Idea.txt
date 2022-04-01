@@ -1,0 +1,40 @@
+Shengwu Nine is incomplete. Here is a basic rundown of what a complete game could look like.
+
+
+Narrative:
+Life has been detected on planet Shengwu Nine - humanity's first discovery of extraterrestrial life. You are the first human scientist sent across the lightyears of space to Shengwu Nine. What will you discover?
+
+
+Basic idea:
+Core theme - the science of complex systems e.g. evolutionary algorithims, cellular automata etc. This is a science game built around playing with those kinds of things. 
+
+The player gets to be a researcher on an alien world. They use science tools and methods to study the alien superorganism, observing, learning, and manipulating it's growth. They can roleplay as a scientist, and maybe even learn a bit about the scientific method and what being a scientist actually involves.
+
+To aid this they can build a laboratory, get research grants to buy new equipment etc. Research findings could applied to new experimental technology that the player tests and uses.
+
+The player is also far from home on a strange world. Things could go wrong here, far from any help.
+ 
+
+
+Core mechanics:
+
+Gardening and researching the superorganism.
+Game loop = observe - measure and manipulate - observe -...
+
+Sense of wonder and fascination. Because growth is slow this more of a background presence. The player needs other things to do.
+
+
+Building the lab.
+Game loop = build - research - rewarded with new materials - build.
+
+Interact with Mission Control.
+Get set research questions/objectives. Make requests for new equipment (and make frustrating competitive funding grant proposals to distant government bureacrats or greedy paranoid corporations - just like real science!).
+
+
+Survival.
+Space survival e.g. maintain space suit. Build habitat module with breathable air. Deal with toxins, contamination. 
+If you fail a you start over as a new expedition sent to the ruins.
+
+Story.
+Uncover clues about the planet's history. Make decisions about what human society will do with these discoveries (e.g. weaponize it, medical uses, leave the alien in peace). Perhaps at a certain level of evolution and growth the superorganism could be communicated with - maybe it has it's own plans (da-da-DUM!)??
+ 
